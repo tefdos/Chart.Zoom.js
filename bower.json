@@ -1,0 +1,17 @@
+{
+  "name": "tefdos-Chart.Zoom.js",
+  "description": "Simple HTML5 charts using the canvas element.",
+  "main": "src/chart.zoom.js",
+  "authors": [
+    "Andrea <tefdos@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tefdos/Chart.Zoom.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
