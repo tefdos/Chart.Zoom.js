@@ -1,6 +1,6 @@
 {
   "name": "tefdos-Chart.Zoom.js",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Simple HTML5 charts using the canvas element.",
   "main": "src/chart.zoom.js",
   "authors": [
