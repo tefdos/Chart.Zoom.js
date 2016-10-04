@@ -91,7 +91,7 @@ function _animate(fn, scale, zoom, center){
 		if(endAnimation){
 			clearInterval(tid);
 		}
-	}, 10);
+	}, 30);
 
 }
 
